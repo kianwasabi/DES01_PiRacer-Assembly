@@ -6,4 +6,4 @@ This repository consists of
 3. Our Team documentation 
    (Insert link to 02_piracer_assembly&setup.md file!)
 4. A package to provide a simple abstraction layer for the PiRacer development platform 
-   [(IPiracer)](https://github.com/SEA-ME/piracer_py)https://github.com/SEA-ME/piracer_py
+   https://github.com/SEA-ME/piracer_py
