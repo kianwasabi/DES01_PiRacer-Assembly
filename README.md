@@ -2,6 +2,8 @@
 ## Introduction
 This documentation consists of the assembly process of the JetRacer(PiRacerStandard), setup of the raspberry Pi 4 and the testrun of the powertrain, steering and camera.
 
+Team01: [Shuta](https://github.com/Shuta-syd) , [KKim](https://github.com/KKWANH) & [kianwasabi](https://github.com/kianwasabi)
+ 
 ## Contents  
 - [Step 1: Assemble PiRacer](#step-0-assemble-piracer) 
 - [Step 1: Install OS](#step-1-install-os) 
@@ -9,8 +11,9 @@ This documentation consists of the assembly process of the JetRacer(PiRacerStand
 - [Step 3: Add additional ubuntu sources & install dependencies](#step-3-add-additional-ubuntu-sources-&-install-dependencies)  
 - [Step 4: Setup periphery](#step-4-setup-periphery) 
 - [Step 5: Install piracer-py package](#step-5-Install-piracer-py-package)  
-- [Step 6: Run Examples & Test PiRacer](#step-6-run-examples-&-test-piracer)  
+- [Step 6: Run Examples & Test PiRacer](#step-6-run-examples-&-test-piracer)
 
+  
 ## Assemble PiRacer
 
 First, assemble the piracer/jetracer under guidance of the waveshare wiki.
